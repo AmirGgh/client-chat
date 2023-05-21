@@ -27,7 +27,7 @@ const Chat = () => {
 
     return (
         <div className=" flex w-screen ">
-            <div className="  w-1/4 bg-slate-500  ">
+            <div className="w-72 bg-slate-700  ">
                 <Sidebar />
             </div>
             <div className=" flex-1 flex-col min-h-screen ">

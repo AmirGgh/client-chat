@@ -21,8 +21,6 @@ const Messages = ({ messages }: { messages: string[] }) => {
                         )
                     })
                 }
-
-
             </ul>
         </div>
 

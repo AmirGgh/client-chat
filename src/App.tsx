@@ -6,7 +6,7 @@ function App() {
 
 
   return (
-    <div className=" flex  w-screen min-h-full bg-gray-300">
+    <div className=" flex  w-screen min-h-full bg-gray-800">
       <Views />
     </div>
   )

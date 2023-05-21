@@ -2,7 +2,7 @@
 const Sidebar = () => {
     return (
         <div className="w-1/4 p-4 sticky inset-y-0 left-0 ">
-            <h1 className="text-xl font-bold mb-4">Channels</h1>
+            <h1 className="text-xl font-bold mb-4 text-gray-50">Channels</h1>
             <ul className="space-y-1">
                 <li className="flex items-center">
                     <span className="h-2 w-2 rounded-full bg-green-500 mr-2"></span>
